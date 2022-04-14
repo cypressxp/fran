@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lavoz6" group-title="LAVOZ",Lavoz6
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets1/2021/10/15/76883CE7-BC40-4111-A2F4-B056665132C8/hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz7" group-title="LAVOZ",Lavoz7
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets3/2021/10/27/1683E16C-A006-40B2-9EE5-DAB4B37BF65D/hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz8" group-title="LAVOZ",Lavoz8
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets16/2021/11/03/9BF853F0-EDA9-47A8-838B-98020E286238/hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz9" group-title="LAVOZ",Lavoz9
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets2/2021/11/10/A5DAC30E-A2B1-4DFD-8FB6-ED5B9BD4EFFA/hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz10" group-title="LAVOZ",Lavoz10
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets16/2021/11/18/AB4DB847-6E1C-4F46-AFBE-7BA24BBD1014/hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz11" group-title="LAVOZ",Lavoz11
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets8/2021/11/26/2033DD62-FA3F-4DF2-9378-9E1A62E798EB/es.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz12" group-title="LAVOZ",Lavoz12
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets15/2021/12/11/39E29A83-7FAA-4E9D-90D7-01E8E8650095/hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lavoz13" group-title="LAVOZ",Lavoz13
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets16/2021/12/18/4ED0EF14-745D-4CB6-AFFB-34BB5C30DD65/hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES-  ✩✩✩ESPAÑA - TDT ✩✩✩" tvg-logo="https://ieaq.labo.univ-poitiers.fr/wp-content/uploads/sites/476/2016/12/49x49x1245-espagne.png.pagespeed.ic.M7w1MEMdTi.png" group-title="EU- ES  TDT",ES-  ✩✩✩ESPAÑA - TDT ✩✩✩
 http://nettv-host.one:8000/pvvmypf9wu/65ecw35iaf/132030
 #EXTINF:-1 tvg-ID="la1.es" tvg-name="ES- La 1 HD" tvg-logo="http://mijn.me/logo/galery/laune.png" group-title="EU- ES  TDT",ES- La 1 HD
