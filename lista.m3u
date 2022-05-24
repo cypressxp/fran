@@ -663,17 +663,15 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284477
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284479
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  24 Horas.." tvg-logo="" group-title="LA- CHILE",CHI-  24 Horas..
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284480
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  24 Horas SD" tvg-logo="" group-title="LA- CHILE",CHI-  24 Horas SD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284478
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13" tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284481
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13 HD" tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13 HD
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284482
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13 HD.." tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13 HD..
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284483
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13." tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13.
+#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13." tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13C.
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284484
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13.." tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13..
+#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13.." tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13C..
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284485
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Canal 13..." tvg-logo="" group-title="LA- CHILE",CHI-  Canal 13...
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284486
@@ -693,12 +691,8 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284492
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284493
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Chilevision." tvg-logo="" group-title="LA- CHILE",CHI-  Chilevision.
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284498
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Chilevision.." tvg-logo="" group-title="LA- CHILE",CHI-  Chilevision..
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284499
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Chilevision..." tvg-logo="" group-title="LA- CHILE",CHI-  Chilevision...
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284500
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Chilevision...." tvg-logo="" group-title="LA- CHILE",CHI-  Chilevision....
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284501
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Chilevision FHD" tvg-logo="" group-title="LA- CHILE",CHI-  Chilevision FHD
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284494
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Chilevision FHD." tvg-logo="" group-title="LA- CHILE",CHI-  Chilevision FHD.
@@ -709,8 +703,6 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284496
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284497
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  CHV HD" tvg-logo="" group-title="LA- CHILE",CHI-  CHV HD
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284502
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  CNN" tvg-logo="" group-title="LA- CHILE",CHI-  CNN
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284503
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  CNN." tvg-logo="" group-title="LA- CHILE",CHI-  CNN.
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284504
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  ETC TV" tvg-logo="" group-title="LA- CHILE",CHI-  ETC TV
@@ -719,19 +711,13 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284505
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284507
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  ETC TV.." tvg-logo="" group-title="LA- CHILE",CHI-  ETC TV..
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284508
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  ETC TV HD" tvg-logo="" group-title="LA- CHILE",CHI-  ETC TV HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284506
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  FM HOT Movies HD" tvg-logo="" group-title="LA- CHILE",CHI-  FM HOT Movies HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284509
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  La Red" tvg-logo="" group-title="LA- CHILE",CHI-  La Red
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284510
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  La Red." tvg-logo="" group-title="LA- CHILE",CHI-  La Red.
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284513
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  La Red HD" tvg-logo="" group-title="LA- CHILE",CHI-  La Red HD
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284511
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  La Red HD." tvg-logo="" group-title="LA- CHILE",CHI-  La Red HD.
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284512
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega" tvg-logo="" group-title="LA- CHILE",CHI-  Mega
+#EXTINF:-1 tvg-ID="" tvg-name="CHI-  MEGA" tvg-logo="" group-title="LA- CHILE",CHI-  MEGA
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284514
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega +" tvg-logo="" group-title="LA- CHILE",CHI-  Mega +
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284515
@@ -741,8 +727,6 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284516
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284519
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega.." tvg-logo="" group-title="LA- CHILE",CHI-  Mega..
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284520
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega..." tvg-logo="" group-title="LA- CHILE",CHI-  Mega...
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284521
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega...." tvg-logo="" group-title="LA- CHILE",CHI-  Mega....
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284522
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega FHD" tvg-logo="" group-title="LA- CHILE",CHI-  Mega FHD
@@ -753,16 +737,8 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284518
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284523
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Rec TV." tvg-logo="" group-title="LA- CHILE",CHI-  Rec TV.
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284524
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  T13" tvg-logo="" group-title="LA- CHILE",CHI-  T13
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284525
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Teletrak" tvg-logo="" group-title="LA- CHILE",CHI-  Teletrak
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284526
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  Teletrak Directo" tvg-logo="" group-title="LA- CHILE",CHI-  Teletrak Directo
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284527
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  TV+" tvg-logo="" group-title="LA- CHILE",CHI-  TV+
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284531
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  TV Chile" tvg-logo="" group-title="LA- CHILE",CHI-  TV Chile
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284538
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  TV Chile" tvg-logo="" group-title="LA- CHILE",CHI-  TV Chile
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284528
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  TV Chile." tvg-logo="" group-title="LA- CHILE",CHI-  TV Chile.
@@ -773,44 +749,8 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284530
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284532
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  TVN." tvg-logo="" group-title="LA- CHILE",CHI-  TVN.
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284533
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  TVR" tvg-logo="" group-title="LA- CHILE",CHI-  TVR
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284534
-#EXTINF:-1 tvg-ID="" tvg-name="CHI-  TVU Concepcion" tvg-logo="" group-title="LA- CHILE",CHI-  TVU Concepcion
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284535
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Ufrovision" tvg-logo="" group-title="LA- CHILE",CHI-  Ufrovision
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284536
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- AE MUNDO HD" tvg-logo="" group-title="LA: Claro",Claro- AE MUNDO HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199659
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- ALJAZEERA HD" tvg-logo="" group-title="LA: Claro",Claro- ALJAZEERA HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199660
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- ANIMAL PLANET HD" tvg-logo="" group-title="LA: Claro",Claro- ANIMAL PLANET HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199661
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- ANTENA3" tvg-logo="" group-title="LA: Claro",Claro- ANTENA3
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199662
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- ANTV" tvg-logo="" group-title="LA: Claro",Claro- ANTV
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199663
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- AZCORAZON HD" tvg-logo="" group-title="LA: Claro",Claro- AZCORAZON HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199664
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- AZMUNDO HD" tvg-logo="" group-title="LA: Claro",Claro- AZMUNDO HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199665
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- BABYTV" tvg-logo="" group-title="LA: Claro",Claro- BABYTV
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199666
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- BBC WORLD" tvg-logo="" group-title="LA: Claro",Claro- BBC WORLD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199667
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- BBC WORLD NEWS" tvg-logo="" group-title="LA: Claro",Claro- BBC WORLD NEWS
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199668
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- BLOOMBERG" tvg-logo="" group-title="LA: Claro",Claro- BLOOMBERG
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199669
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- BOOMERANG" tvg-logo="" group-title="LA: Claro",Claro- BOOMERANG
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199670
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- CANAL CLARO HD" tvg-logo="" group-title="LA: Claro",Claro- CANAL CLARO HD
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199671
-#EXTINF:-1 tvg-ID="" tvg-name="Claro-  Las Estrellas" tvg-logo="" group-title="LA: Claro",Claro-  Las Estrellas
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199672
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- CANAL TRO" tvg-logo="" group-title="LA: Claro",Claro- CANAL TRO
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199673
-#EXTINF:-1 tvg-ID="" tvg-name="Claro- CARACOL" tvg-logo="" group-title="LA: Claro",Claro- CARACOL
-http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199674
 #EXTINF:-1 tvg-ID="" tvg-name="Claro- CARACOL HD OPC1" tvg-logo="" group-title="LA: Claro",Claro- CARACOL HD OPC1
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/199675
 #EXTINF:-1 tvg-ID="" tvg-name="Claro- CARTOON NETWORK HD" tvg-logo="" group-title="LA: Claro",Claro- CARTOON NETWORK HD
