@@ -8,8 +8,8 @@ http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/285375
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/441a1754ea7709febd9371cbe8e41d93.png" group-title="No group" tvg-id="CL - TVN" tvg-name="CL - TVN", CL: TVN SD
 http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35294
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="No group" tvg-id="CL - Mega" tvg-name="CL - Mega", CL: Mega SD
-http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35297
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="No group" tvg-id="CL - Mega" tvg-name="CL - Mega", CL: Mega SD
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="No group",CHI-  Mega
 http://nettv-host.one:8000/ejdn234qea/65ecw35iaf/284514
 #EXTINF:-1 tvg-ID="" tvg-name="CHI-  Mega +" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="No group",CHI-  Mega +
