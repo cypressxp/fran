@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="LavozK1" group-title="EL HORMIGUERO",PABLO ALBORAN
+https://d3rwcddqqi9gr2.cloudfront.net/vsg/_definst_/assets15/2023/05/04/F7002ED5-EAF1-4D03-B96A-67877F3BD994/es.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="LavozK2" group-title="LAVOZKIDS",LavozK2
 #EXTINF:-1 tvg-name="LavozK1" group-title="LAVOZKIDS",LavozK1
 https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets4/2022/05/18/D89D5711-11F6-412B-BB45-F78432B586B2/hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LavozK2" group-title="LAVOZKIDS",LavozK2
